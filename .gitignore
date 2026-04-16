@@ -1,0 +1,19 @@
+# Local Claude Code settings (user-specific permissions)
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
